@@ -1,2 +1,2 @@
 # helloamonrat
-my neme is amonrart marahew 
+my name is amonrart marahew 
