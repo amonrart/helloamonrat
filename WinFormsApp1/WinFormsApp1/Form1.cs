@@ -35,5 +35,11 @@ namespace WinFormsApp1
             // show input to textbox
             textBoxC.Text = c.ToString();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBoxC.Text = "";
+            textBoxF.Text = "";
+        }
     }
 } 
