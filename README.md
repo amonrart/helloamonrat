@@ -1,2 +1,2 @@
 # helloamonrat
-this is my c# program
+my neme is amonrart marahew 
