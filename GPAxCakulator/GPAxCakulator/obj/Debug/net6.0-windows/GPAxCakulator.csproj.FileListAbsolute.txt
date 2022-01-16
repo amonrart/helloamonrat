@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\bin\Debug\net6.0-windows\GPAxCakulator.exe
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\bin\Debug\net6.0-windows\GPAxCakulator.deps.json
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\bin\Debug\net6.0-windows\GPAxCakulator.runtimeconfig.json
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\bin\Debug\net6.0-windows\GPAxCakulator.dll
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\bin\Debug\net6.0-windows\ref\GPAxCakulator.dll
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\bin\Debug\net6.0-windows\GPAxCakulator.pdb
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\obj\Debug\net6.0-windows\GPAxCakulator.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\obj\Debug\net6.0-windows\GPAxCakulator.Form1.resources
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\obj\Debug\net6.0-windows\GPAxCakulator.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\obj\Debug\net6.0-windows\GPAxCakulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\obj\Debug\net6.0-windows\GPAxCakulator.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\obj\Debug\net6.0-windows\GPAxCakulator.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\obj\Debug\net6.0-windows\GPAxCakulator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\obj\Debug\net6.0-windows\GPAxCakulator.dll
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\obj\Debug\net6.0-windows\ref\GPAxCakulator.dll
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\obj\Debug\net6.0-windows\GPAxCakulator.pdb
+C:\Users\User\Documents\GitHub\helloamonrat\GPAxCakulator\GPAxCakulator\obj\Debug\net6.0-windows\GPAxCakulator.genruntimeconfig.cache

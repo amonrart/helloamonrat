@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\helloamonrat\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\helloamonrat\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\CoffeeMachine.CoffeeMachine.resources
+C:\Users\User\Documents\GitHub\helloamonrat\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\helloamonrat\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\helloamonrat\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\helloamonrat\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\helloamonrat\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache

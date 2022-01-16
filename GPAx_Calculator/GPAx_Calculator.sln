@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPAx_Calculator", "GPAx_Calculator\GPAx_Calculator.csproj", "{29F64897-EB71-4825-BC69-697A9D5D2F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29F64897-EB71-4825-BC69-697A9D5D2F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F64897-EB71-4825-BC69-697A9D5D2F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F64897-EB71-4825-BC69-697A9D5D2F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F64897-EB71-4825-BC69-697A9D5D2F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1C519DF-4B17-406E-8BBB-9AB8D64D6CD7}
+	EndGlobalSection
+EndGlobal
