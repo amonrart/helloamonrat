@@ -8,5 +8,14 @@ namespace GPAxConfigure
 {
     internal class GPACaloulator
     {
+        double sum = 0;
+        int n = 0;
+
+        void addGPA(double gpa)
+        {
+            this.sum += gpa;
+
+              
+        }
     }
 }

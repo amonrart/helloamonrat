@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\bin\Debug\net6.0-windows\Student.exe
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\bin\Debug\net6.0-windows\Student.deps.json
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\bin\Debug\net6.0-windows\Student.runtimeconfig.json
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\bin\Debug\net6.0-windows\Student.dll
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\bin\Debug\net6.0-windows\ref\Student.dll
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\bin\Debug\net6.0-windows\Student.pdb
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\obj\Debug\net6.0-windows\Student.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\obj\Debug\net6.0-windows\Student.Form1.resources
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\obj\Debug\net6.0-windows\Student.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\obj\Debug\net6.0-windows\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\obj\Debug\net6.0-windows\Student.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\obj\Debug\net6.0-windows\Student.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\obj\Debug\net6.0-windows\Student.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\obj\Debug\net6.0-windows\Student.dll
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\obj\Debug\net6.0-windows\ref\Student.dll
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\obj\Debug\net6.0-windows\Student.pdb
+C:\Users\User\Documents\GitHub\helloamonrat\Student\Student\obj\Debug\net6.0-windows\Student.genruntimeconfig.cache

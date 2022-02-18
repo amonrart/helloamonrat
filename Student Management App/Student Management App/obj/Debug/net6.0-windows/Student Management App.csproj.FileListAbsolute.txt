@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\bin\Debug\net6.0-windows\Student Management App.exe
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\bin\Debug\net6.0-windows\Student Management App.deps.json
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\bin\Debug\net6.0-windows\Student Management App.runtimeconfig.json
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\bin\Debug\net6.0-windows\Student Management App.dll
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\bin\Debug\net6.0-windows\ref\Student Management App.dll
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\bin\Debug\net6.0-windows\Student Management App.pdb
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\obj\Debug\net6.0-windows\Student Management App.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\obj\Debug\net6.0-windows\Student_Management_App.Form1.resources
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\obj\Debug\net6.0-windows\Student Management App.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\obj\Debug\net6.0-windows\Student Management App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\obj\Debug\net6.0-windows\Student Management App.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\obj\Debug\net6.0-windows\Student Management App.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\obj\Debug\net6.0-windows\Student Management App.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\obj\Debug\net6.0-windows\Student Management App.dll
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\obj\Debug\net6.0-windows\ref\Student Management App.dll
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\obj\Debug\net6.0-windows\Student Management App.pdb
+C:\Users\User\Documents\GitHub\helloamonrat\Student Management App\Student Management App\obj\Debug\net6.0-windows\Student Management App.genruntimeconfig.cache
