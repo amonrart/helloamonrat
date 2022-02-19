@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\obj\Debug\net6.0-windows\Quiz Assignment1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\obj\Debug\net6.0-windows\Quiz.Form1.resources
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\obj\Debug\net6.0-windows\Quiz Assignment1.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\obj\Debug\net6.0-windows\Quiz Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\obj\Debug\net6.0-windows\Quiz Assignment1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\obj\Debug\net6.0-windows\Quiz Assignment1.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\obj\Debug\net6.0-windows\Quiz Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\bin\Debug\net6.0-windows\Quiz Assignment1.exe
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\bin\Debug\net6.0-windows\Quiz Assignment1.deps.json
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\bin\Debug\net6.0-windows\Quiz Assignment1.runtimeconfig.json
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\bin\Debug\net6.0-windows\Quiz Assignment1.dll
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\bin\Debug\net6.0-windows\ref\Quiz Assignment1.dll
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\bin\Debug\net6.0-windows\Quiz Assignment1.pdb
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\obj\Debug\net6.0-windows\Quiz Assignment1.dll
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\obj\Debug\net6.0-windows\ref\Quiz Assignment1.dll
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\obj\Debug\net6.0-windows\Quiz Assignment1.pdb
+C:\Users\User\Documents\GitHub\helloamonrat\Quiz Assignment1\Quiz Assignment1\obj\Debug\net6.0-windows\Quiz Assignment1.genruntimeconfig.cache
