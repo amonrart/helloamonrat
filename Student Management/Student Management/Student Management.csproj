@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
@@ -13,4 +14,21 @@
     <Compile Include="C:\Users\User\Downloads\student Management App 2.cs" Link="student Management App 2.cs" />
   </ItemGroup>
 
+=======
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Student_Management</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\User\Downloads\student Management App 2.cs" Link="student Management App 2.cs" />
+  </ItemGroup>
+
+>>>>>>> 0562862f618c5f1f45062cae48225ad01025ab61
 </Project>

@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+<<<<<<< HEAD:Quiz Assignment/Quiz Assignment/Quiz Assignment.csproj.user
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="C:\Users\User\Downloads\student Management App 2.cs">
+    <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
@@ -10,9 +10,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="C:\Users\User\Downloads\student Management App 2.cs">
+    <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
->>>>>>> 0562862f618c5f1f45062cae48225ad01025ab61
+>>>>>>> 0562862f618c5f1f45062cae48225ad01025ab61:Quiz Assignment.csproj.user
 </Project>

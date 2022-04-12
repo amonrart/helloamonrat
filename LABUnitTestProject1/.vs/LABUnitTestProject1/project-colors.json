@@ -1,13 +1,13 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "d2e94187-5702-4f77-ab8b-7ff3d7aafb57": {
-      "ProjectGuid": "d2e94187-5702-4f77-ab8b-7ff3d7aafb57",
+    "f2aa5328-a7fd-4a77-9a91-4d3ef43094e7": {
+      "ProjectGuid": "f2aa5328-a7fd-4a77-9a91-4d3ef43094e7",
       "DisplayName": "LABUnitTestProject1",
       "ColorIndex": 0
     },
-    "f8d18f04-4d18-4439-9fef-d6d282918c34": {
-      "ProjectGuid": "f8d18f04-4d18-4439-9fef-d6d282918c34",
+    "9671042e-cb6b-479f-9220-9377a1f0b5b6": {
+      "ProjectGuid": "9671042e-cb6b-479f-9220-9377a1f0b5b6",
       "DisplayName": "MyClassLibrary",
       "ColorIndex": 1
     }
